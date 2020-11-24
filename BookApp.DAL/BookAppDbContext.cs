@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using BookApp.Dal.Configurations;
-using BookApp.Dal.Entities;
+﻿using BookApp.Dal.Configurations;
+using BookApp.Dto.Entities;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 

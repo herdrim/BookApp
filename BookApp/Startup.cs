@@ -5,8 +5,8 @@ using BookApp.Dal;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using BookApp.Dal.Entities;
 using BookApp.Extensions;
+using BookApp.Dto.Entities;
 
 namespace BookApp
 {

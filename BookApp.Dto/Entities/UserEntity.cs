@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace BookApp.Dal.Entities
+namespace BookApp.Dto.Entities
 {
     public class UserEntity : IdentityUser
     {

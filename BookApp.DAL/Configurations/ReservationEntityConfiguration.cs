@@ -1,4 +1,4 @@
-﻿using BookApp.Dal.Entities;
+﻿using BookApp.Dto.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System;

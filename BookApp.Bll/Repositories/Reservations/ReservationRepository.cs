@@ -1,12 +1,11 @@
 ﻿using BookApp.Bll.Mappers.Reservations;
 using BookApp.Dal;
-using BookApp.Dal.Entities;
+using BookApp.Dto.Entities;
 using BookApp.Dto.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace BookApp.Bll.Repositories.Reservations

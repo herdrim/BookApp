@@ -1,4 +1,4 @@
-﻿using BookApp.Dal.Entities;
+﻿using BookApp.Dto.Entities;
 using Microsoft.AspNetCore.Identity;
 using System.Threading.Tasks;
 

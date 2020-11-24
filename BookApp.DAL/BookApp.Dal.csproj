@@ -22,4 +22,8 @@
     <Folder Include="Migrations\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BookApp.Dto\BookApp.Dto.csproj" />
+  </ItemGroup>
+
 </Project>

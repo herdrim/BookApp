@@ -1,4 +1,4 @@
-﻿using BookApp.Dal.Entities;
+﻿using BookApp.Dto.Entities;
 using System.Threading.Tasks;
 
 namespace BookApp.Bll.Services.Users

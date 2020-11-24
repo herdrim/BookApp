@@ -2,13 +2,10 @@
 using BookApp.Bll.Repositories.Books;
 using BookApp.Bll.Repositories.Reservations;
 using BookApp.Bll.Services.Users;
-using BookApp.Dal.Entities;
+using BookApp.Dto.Entities;
 using BookApp.Dto.Models;
-using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;
-using System.Security.Claims;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace BookApp.Bll.Services.Books
